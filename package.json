@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/fdnd-task/ssr-example#readme",
   "dependencies": {
-    "ejs": "^3.1.6",
+    "ejs": "^3.1.10",
     "express": "^4.17.3",
     "node-fetch": "^3.2.3"
   }
